@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/patricnilackshan/patricnilackshan/main/images/CoverPhoto.gif)
+
 # Hi there 👋 I'm Pasan Akalanka
 
 **Software Engineering Student @ Java Institute of Advanced Technology**
