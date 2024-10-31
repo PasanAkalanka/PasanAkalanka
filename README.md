@@ -12,16 +12,6 @@
 
 ---
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/p_a_s_a_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p_a_s_a_n" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pasan-akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasan akalanka" height="30" width="40" /></a>
-<a href="https://fb.com/pasan.akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasan akalanka" height="30" width="40" /></a>
-<a href="https://instagram.com/pasa_na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasa_na" height="30" width="40" /></a>
-</p>
-
----
-
 ## 🛠️ Tech Stack:
 
 ### Languages I Code In
