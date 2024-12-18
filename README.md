@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm currently learning Coding
 - 🎓 I'm am Undergraduate at JIAT
-- 🏢 One of the SENIOR SOFTWARE ENGINEER of Endeavor Software Solutions
+- 🏢 One of the SENIOR SE of Endeavor Software Solutions
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [lppakalanka@gmail.com](mailto:lppakalanka@gmail.com)
 ---
