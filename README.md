@@ -25,20 +25,12 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks, Libraries & IDEs
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 📊 GitHub Stats:
 
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=indeepa23&show_icons=true&theme=dark)
 
-### Design Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indeepa23&layout=compact&theme=dark)
 
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=indeepa23&theme=dark)
 
 
